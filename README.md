@@ -27,6 +27,22 @@
 </div>
 <br>
 
+
+<div id="tools">
+<h3>:crystal_ball:Tools and Skills</h3>   
+  
+![https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=default](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=136be1)
+![https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello&logoColor=0052CC](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello&logoColor=0052CC)
+![https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=e34c26](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=e34c26)
+![https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoColor=2965f1](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoColor=2965f1) 
+![https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=ef5b25](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=ef5b25)
+![https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+![https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=00b2a9](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=00b2a9)
+
+ 
+</div>
+
 <div id="visitors">
 <h3>:eyes:Visitors</h3> 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjulian-ole%2Fjulian-ole%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjulian-ole%2Fjulian-ole%2F&label=Visitors&labelColor=%23d9e3f0&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
