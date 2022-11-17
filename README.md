@@ -39,6 +39,10 @@
 ![https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=ef5b25](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman&logoColor=ef5b25)
 ![https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=00b2a9](https://img.shields.io/badge/-DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=00b2a9)
+![https://img.shields.io/badge/-Functional&nbsp;Testing-black?style=for-the-badge](https://img.shields.io/badge/-Functional&nbsp;Testing-black?style=for-the-badge)
+![https://img.shields.io/badge/-Terminal-black?style=for-the-badge](https://img.shields.io/badge/-Terminal-black?style=for-the-badge)
+![https://img.shields.io/badge/-json/xml-black?style=for-the-badge](https://img.shields.io/badge/-json/xml-black?style=for-the-badge)
+
 
  
 </div>
