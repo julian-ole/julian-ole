@@ -21,7 +21,7 @@
 
 <ul>
   <li>:computer:I'm open to work Junior Quality Assurance.</li>
-  <li>:woman_student:Self-educated.</li>
+  <li>:woman_student:Self-education and courses.</li>
   <li>:seedling:Exploring JS, automation testing.</li>
 </ul>
 </div>
