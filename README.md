@@ -1,6 +1,6 @@
 <H2 align="center">Hi there 👋  I'm Julia</H2>
 
-![header](https://github.com/julian-ole/profile-card-ui/blob/master/public/images/header2.jpg)
+![header](https://github.com/julian-ole/profile-card-ui/blob/master/public/images/header3_clipdrop-relight.png)
 
 
 <div id="badges" align="center">
