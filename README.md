@@ -42,6 +42,7 @@
 ![https://img.shields.io/badge/-Functional&nbsp;Testing-black?style=for-the-badge](https://img.shields.io/badge/-Functional&nbsp;Testing-black?style=for-the-badge)
 ![https://img.shields.io/badge/-Terminal-black?style=for-the-badge](https://img.shields.io/badge/-Terminal-black?style=for-the-badge)
 ![https://img.shields.io/badge/-json/xml-black?style=for-the-badge](https://img.shields.io/badge/-json/xml-black?style=for-the-badge)
+![https://img.shields.io/badge/-VS&nbsp;code-black?style=for-the-badge](https://img.shields.io/badge/-VS&nbsp;code-black?style=for-the-badge)
 
 
  
