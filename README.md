@@ -20,7 +20,7 @@
 <h3>:sparkles:About Me</h3>
 
 <ul>
-  <li>:computer:I'm open to work Software QA Engineer.</li>
+  <li>:computer:I'm Software QA Engineer.</li>
   <li>:woman_student:Self-education and courses.</li>
   <li>:seedling:Exploring JS, automation testing Cypress|JS.</li>
 </ul>
