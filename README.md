@@ -21,7 +21,7 @@
 
 <ul>
   <li>:computer:I'm Software QA Engineer.</li>
-  <li>:woman_student:Self-education and courses.</li>
+  <li>:woman_student:In permanent self-education.</li>
   <li>:seedling:Exploring JS, automation testing Cypress|JS.</li>
 </ul>
 </div>
